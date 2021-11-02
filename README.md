@@ -24,11 +24,11 @@ Open and run the `Chapter1__Binary_Search.py` to see how binary search works.
 
 Explanation - 
 
-<img src="https://github.com/saitejas-janjur/Data-Structures-and-Algorithms/blob/main/Images/Explanation.PNG" width=50% height=50%>
+<img src="https://github.com/saitejas-janjur/Data-Structures-and-Algorithms/blob/main/Images/Explanation.PNG">
 
 Code - 
 
-<img src="https://github.com/saitejas-janjur/Data-Structures-and-Algorithms/blob/main/Images/Code.PNG" width=50% height=50%>
+<img src="https://github.com/saitejas-janjur/Data-Structures-and-Algorithms/blob/main/Images/Code.PNG">
 
 
 Happy Learning!!!
